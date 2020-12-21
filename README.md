@@ -45,11 +45,11 @@ Your task consists of reviewing a pull-request that aims implementing this user 
 
 - **Boilerplate version and submission**
 
-Your task consists of implementing this user story. You can use the branch `feature/boilerplate` as a starting point.
+Your task consists of implementing this user story.
 
 **Follow these instructions to submit your challenge.**
 - Create a private Github repository
-- Commit the boilerplate code (if you decide to use it)
+- Commit the boilerplate code (if you decide to use any of the boilerplate code)
 - Write your Code on a separate branch
 - Commit your Changes
 - Issue a Pull Request
