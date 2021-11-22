@@ -49,8 +49,7 @@ Your task consists of implementing this user story.
 
 **Follow these instructions to submit your challenge.**
 - Create a private Github repository
-- Commit the boilerplate code (if you decide to use any of the boilerplate code)
 - Write your Code on a separate branch
 - Commit your Changes
 - Issue a Pull Request
-- Invite us (Github: "lukaskai") as a Collaborator to Your Repository
+- Invite us (Github: "lukaskai", "cidyuk") as a Collaborator to Your Repository
